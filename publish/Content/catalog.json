@@ -1,0 +1,201 @@
+{
+  "brand": "Anytime",
+  "contactMode": "instagram",
+  "phone": "",
+  "displayPhone": "",
+  "instagram": "https://www.instagram.com/anytime_lb/",
+  "hours": "Confirm current shop hours with the team",
+  "hero": "/images/photo-eec1d35eea5d353a.jpg",
+  "story": "/images/photo-a09313ab42158e9c.jpg",
+  "galleryImages": [
+    "/images/photo-376184bf3bd821b9.jpg",
+    "/images/photo-a09313ab42158e9c.jpg",
+    "/images/photo-3ea23a5ffd7afbae.jpg",
+    "/images/photo-65a2b6c1af0754b5.jpg",
+    "/images/photo-eec1d35eea5d353a.jpg",
+    "/images/photo-9f7bcf3884095ca9.jpg",
+    "/images/photo-b1d7ed1b2285f182.jpg",
+    "/images/photo-dbe079ed73f5ebdc.jpg",
+    "/images/photo-2bb56e70063557e8.jpg",
+    "/images/photo-548ca12bda47d5ac.jpg"
+  ],
+  "products": [
+    {
+      "id": "black-tie-waist-shorts",
+      "name": "Black Tie-Waist Shorts",
+      "collection": "Bottoms",
+      "audience": "The edit",
+      "family": "",
+      "description": "Black high-waisted shorts with a tied waist detail, styled with a white sleeveless top. The reference is for the named garment; styling items are not automatically included. Ask the shop to confirm price, fit, materials and current options.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ],
+      "images": [
+        "/images/photo-376184bf3bd821b9.jpg"
+      ],
+      "source": "https://www.instagram.com/anytime_lb/p/DgFlRmsJYsS/"
+    },
+    {
+      "id": "mint-wide-leg-trousers",
+      "name": "Mint Wide-Leg Trousers",
+      "collection": "Bottoms",
+      "audience": "The edit",
+      "family": "",
+      "description": "Mint-green high-waisted trousers with a wide leg, shown in a clean white-background styling image. The reference is for the named garment; styling items are not automatically included. Ask the shop to confirm price, fit, materials and current options.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ],
+      "images": [
+        "/images/photo-a09313ab42158e9c.jpg"
+      ],
+      "source": "https://www.instagram.com/anytime_lb/p/DgFkHHoJWIt/"
+    },
+    {
+      "id": "blue-wide-leg-jeans",
+      "name": "Blue Wide-Leg Jeans",
+      "collection": "Denim",
+      "audience": "The edit",
+      "family": "",
+      "description": "Blue wide-leg jeans with visible front pockets, styled with a white sleeveless top. The reference is for the named garment; styling items are not automatically included. Ask the shop to confirm price, fit, materials and current options.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ],
+      "images": [
+        "/images/photo-3ea23a5ffd7afbae.jpg"
+      ],
+      "source": "https://www.instagram.com/anytime_lb/p/DgFjdbWJLPC/"
+    },
+    {
+      "id": "black-slim-jeans",
+      "name": "Black Slim Jeans",
+      "collection": "Denim",
+      "audience": "The edit",
+      "family": "",
+      "description": "Black jeans with a slim-looking leg, styled with a black top and white trainers. The reference is for the named garment; styling items are not automatically included. Ask the shop to confirm price, fit, materials and current options.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ],
+      "images": [
+        "/images/photo-65a2b6c1af0754b5.jpg"
+      ],
+      "source": "https://www.instagram.com/anytime_lb/p/DgFiE6bpCMA/"
+    },
+    {
+      "id": "rust-long-sleeve-top",
+      "name": "Rust Long-Sleeve Top",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "A rust-coloured long-sleeved top styled with charcoal jeans. The reference is for the named garment; styling items are not automatically included. Ask the shop to confirm price, fit, materials and current options.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ],
+      "images": [
+        "/images/photo-eec1d35eea5d353a.jpg"
+      ],
+      "source": "https://www.instagram.com/anytime_lb/p/DgFhrSyHJeC/"
+    },
+    {
+      "id": "sage-long-sleeve-top",
+      "name": "Sage Long-Sleeve Top",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "A sage-green long-sleeved top styled with blue jeans. The reference is for the named garment; styling items are not automatically included. Ask the shop to confirm price, fit, materials and current options.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ],
+      "images": [
+        "/images/photo-9f7bcf3884095ca9.jpg"
+      ],
+      "source": "https://www.instagram.com/anytime_lb/p/DgFgFsTnDuj/"
+    },
+    {
+      "id": "neutral-long-sleeve-top",
+      "name": "Neutral Long-Sleeve Top",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "A light neutral long-sleeved top styled with blue straight-leg jeans. The reference is for the named garment; styling items are not automatically included. Ask the shop to confirm price, fit, materials and current options.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ],
+      "images": [
+        "/images/photo-b1d7ed1b2285f182.jpg"
+      ],
+      "source": "https://www.instagram.com/anytime_lb/p/DgFeq1eHKlo/"
+    },
+    {
+      "id": "mustard-long-sleeve-top",
+      "name": "Mustard Long-Sleeve Top",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "A mustard-coloured long-sleeved top styled with light-blue flared jeans. The reference is for the named garment; styling items are not automatically included. Ask the shop to confirm price, fit, materials and current options.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ],
+      "images": [
+        "/images/photo-dbe079ed73f5ebdc.jpg"
+      ],
+      "source": "https://www.instagram.com/anytime_lb/p/DgFd9vqnHWi/"
+    },
+    {
+      "id": "burgundy-long-sleeve-top",
+      "name": "Burgundy Long-Sleeve Top",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "A burgundy long-sleeved top styled with pale-grey jeans. The reference is for the named garment; styling items are not automatically included. Ask the shop to confirm price, fit, materials and current options.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ],
+      "images": [
+        "/images/photo-2bb56e70063557e8.jpg"
+      ],
+      "source": "https://www.instagram.com/anytime_lb/p/DgFccsQnPwg/"
+    },
+    {
+      "id": "printed-v-neck-blouse",
+      "name": "Printed V-Neck Blouse",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark blouse with a small pale print and a V-shaped neckline, styled with blue jeans. The reference is for the named garment; styling items are not automatically included. Ask the shop to confirm price, fit, materials and current options.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ],
+      "images": [
+        "/images/photo-548ca12bda47d5ac.jpg"
+      ],
+      "source": "https://www.instagram.com/anytime_lb/p/DgFT-Tspz5E/"
+    }
+  ],
+  "services": [],
+  "branches": [
+    {
+      "name": "Jounieh, Al Shir",
+      "mapUrl": "https://maps.app.goo.gl/gzApCeJoRW8DmtHc7?g_st=iw"
+    }
+  ]
+}

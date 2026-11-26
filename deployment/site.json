@@ -1,0 +1,7 @@
+{
+  "name": "Anytime",
+  "slug": "anytime-lb",
+  "iisName": "ArtisanAnytimeLb",
+  "domain": "anytime-lb.duckdns.org",
+  "previewPort": 5710
+}
